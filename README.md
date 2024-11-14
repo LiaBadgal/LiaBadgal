@@ -2,7 +2,7 @@
 
 Hello! My name's Lia Piedra, and I'm an aspiring programmer whose primary interests are in game development, data science, software engineering, and machine learning.
 
-- I’m currently learning Python, Javascript, and Swift for programming languages.
+- I’m currently learning Python, GDScript, Javascript, and Swift for programming languages.
 - I have also been learning how to use Vim for the past week.
 - Pronouns: She/her primarily, but I also like fae/faer and it/its. For more information, you can visit my [pronouns page!](https://en.pronouns.page/@LiaBadgal)
 
@@ -16,3 +16,9 @@ Hello! My name's Lia Piedra, and I'm an aspiring programmer whose primary intere
 - Vim, PyCharm, IntelliJ, Rider for IDEs
 - Krita, ClipStudioPaint and Blender for Artwork
 - PowerShell 7 for Windows Terminal, Wizterm for MacOS Terminal, and Alacritty for Linux Terminal
+
+## Current Projects
+- An RPG co-developed with a friend, the details are still being ironed out as we speak
+- A mobile RPG game developed in Swift for a school project
+- iOS app using React.js and Node.js for a school project
+- Building side Godot projects to learn the engine
