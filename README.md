@@ -22,3 +22,4 @@ Hello! My name's Lia Piedra, and I'm an aspiring programmer whose primary intere
 - A mobile RPG game developed in Swift for a school project
 - iOS app using React.js and Node.js for a school project
 - Building side Godot projects to learn the engine
+- Privately testing a Discord bot
