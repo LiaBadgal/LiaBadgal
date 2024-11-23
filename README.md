@@ -8,7 +8,7 @@ Hello! My name's Lia Piedra, and I'm an aspiring programmer whose primary intere
 
 ## My Current Skills and Experiences
 - Programming Languages: C++, C#, Java, Python, C
-- Operating Systems: Windows, MacOS, Debian, Linux Mint, CachyOS, Archcraft
+- Operating Systems: Windows, MacOS, Debian, Linux Mint, CachyOS, Archcraft, Fedora
 - Programming Skills: Data Science, Game Development, Software Development
 - PC Builder and Repairer
 
@@ -19,7 +19,6 @@ Hello! My name's Lia Piedra, and I'm an aspiring programmer whose primary intere
 
 ## Current Projects
 - An RPG co-developed with a friend, the details are still being ironed out as we speak
-- A mobile RPG game developed in Swift for a school project
-- iOS app using React.js and Node.js for a school project
+- iOS app using Swift for a school project
 - Building side Godot projects to learn the engine
 - Privately testing a Discord bot
