@@ -9,24 +9,7 @@ Hello! My name's Lia/Adriana Piedra, and I'm an aspiring programmer whose primar
 
 ![Lia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leehapanda&show_icons=true&theme=gruvbox)
 
-## My Current Skills and Experiences
-- Programming Languages: C++, C#, Java, Python, C
-- Operating Systems: Windows, MacOS, EndeavourOS, Debian, Linux Mint, CachyOS, Archcraft, Fedora
-- Programming Skills: Data Science, Game Development, Back-end Software Development
-- PC Builder and Repairer
-
-## Main Tools Used
-- (Neo)Vim and VSCodium for IDEs
-- Krita, ClipStudioPaint and Blender for Artwork
-- PowerShell 7 w/ WSL for Windows Terminal, Wizterm for MacOS Terminal and Linux Terminal
-  - If you're curious about any of my set ups for these, feel free to ask on my Twitter!
-
-## Current Projects
-- Working on Boot.dev's back-end development course!
-- An RPG co-developed with a friend, the details are still being ironed out as we speak
-- Building side Godot projects to learn the engine
-
-## Visual Techstack
+## 💻 Techstack
 <div align="center">
 	<table>
 		<tr>
@@ -61,3 +44,13 @@ Hello! My name's Lia/Adriana Piedra, and I'm an aspiring programmer whose primar
 		</tr>
 	</table>
 </div>
+
+## Main Tools Used
+- Krita, ClipStudioPaint and Blender for Artwork
+- PowerShell 7 w/ WSL for Windows Terminal, Wizterm for MacOS Terminal and Linux Terminal
+  - If you're curious about any of my set ups for these, feel free to ask on my Twitter!
+
+## Current Projects
+- Working on Boot.dev's back-end development course!
+- An RPG co-developed with a friend, the details are still being ironed out as we speak
+- Building side Godot projects to learn the engine
