@@ -5,6 +5,8 @@ Hello! My name's Lia/Adriana Piedra, and I'm an aspiring programmer whose primar
 - I’m currently learning Python and GDScript for programming languages.
 - I also want to revisit math to hone my skills in it
 - Pronouns: She/her primarily, shi/hir and hi/hir secondarily, but I also like fae/faer and it/its. For more information, you can visit my [pronouns page!](https://en.pronouns.page/@LiaBadgal)
+
+
 ![Lia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leehapanda)
 
 ## My Current Skills and Experiences
