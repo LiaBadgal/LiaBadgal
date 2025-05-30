@@ -1,7 +1,7 @@
 ## Welcome to my Cozy Abode 👋
 
 Hello! My name's Lia/Adriana Piedra, and I'm an aspiring programmer whose primary interests are in back-end development, game development, and data science.
-
+- I graduated from Florida International University with a Bachelor's of Science in CompSci
 - I’m currently learning Python and GDScript for programming languages.
 - I also want to revisit math to hone my skills in it
 - Pronouns: She/her primarily, shi/hir and hi/hir secondarily, but I also like fae/faer and it/its. For more information, you can visit my [pronouns page!](https://en.pronouns.page/@LiaBadgal)
@@ -45,12 +45,14 @@ Hello! My name's Lia/Adriana Piedra, and I'm an aspiring programmer whose primar
 	</table>
 </div>
 
-## Main Tools Used
+## 🔌 Main Tools Used
+- EndeavourOS and Windows 10 for Main OS
+- Obsidian for Note-taking
 - Krita, ClipStudioPaint and Blender for Artwork
 - PowerShell 7 w/ WSL for Windows Terminal, Wizterm for MacOS Terminal and Linux Terminal
   - If you're curious about any of my set ups for these, feel free to ask on my Twitter!
 
-## Current Projects
-- Working on Boot.dev's back-end development course!
+## 👩🏽‍💻 Current Projects
+- Working on [Boot.dev's](https://www.boot.dev/) back-end development course!
 - An RPG co-developed with a friend, the details are still being ironed out as we speak
 - Building side Godot projects to learn the engine
