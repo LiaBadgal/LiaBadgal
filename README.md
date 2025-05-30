@@ -1,8 +1,9 @@
 ## Welcome to my Cozy Abode 👋
 
-Hello! My name's Lia/Adriana Piedra, and I'm an aspiring programmer whose primary interests are in back-end development and game development.
+Hello! My name's Lia/Adriana Piedra, and I'm an aspiring programmer whose primary interests are in back-end development, game development, and data science.
 
 - I’m currently learning Python and GDScript for programming languages.
+- I also want to revisit math to hone my skills in it
 - Pronouns: She/her primarily, shi/hir and hi/hir secondarily, but I also like fae/faer and it/its. For more information, you can visit my [pronouns page!](https://en.pronouns.page/@LiaBadgal)
 
 ## My Current Skills and Experiences
