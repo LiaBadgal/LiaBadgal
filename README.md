@@ -22,6 +22,7 @@ Hello! My name's Lia/Adriana Piedra, and I'm an aspiring programmer whose primar
 - An RPG co-developed with a friend, the details are still being ironed out as we speak
 - Building side Godot projects to learn the engine
 
+## Visual Techstack
 <div align="center">
 	<table>
 		<tr>
