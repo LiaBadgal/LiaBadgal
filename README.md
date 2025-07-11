@@ -49,7 +49,7 @@ Hello! My name's Lia/Adriana Piedra, and I'm an aspiring programmer whose primar
 - EndeavourOS and Windows 10 for Main OS
 - Obsidian for Note-taking
 - Krita, ClipStudioPaint and Blender for Artwork
-- PowerShell 7 w/ WSL for Windows Terminal, Wizterm for MacOS Terminal and Linux Terminal
+- PowerShell 7 w/ WSL for Windows Terminal, Kitty Terminal for MacOS Terminal and Linux Terminal
   - If you're curious about any of my set ups for these, feel free to ask on my Twitter!
 
 ## 👩🏽‍💻 Current Projects
