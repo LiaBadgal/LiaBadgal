@@ -7,7 +7,7 @@ Hello! My name's Lia/Adriana Piedra, and I'm an aspiring programmer whose primar
 - Pronouns: She/her primarily, shi/hir and hi/hir secondarily, but I also like fae/faer and it/its. For more information, you can visit my [pronouns page!](https://en.pronouns.page/@LiaBadgal)
 
 
-![Lia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leehapanda&show_icons=true&theme=gruvbox)
+![Lia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liabadgal&show_icons=true&theme=gruvbox)
 
 ## 💻 Techstack
 <div align="center">
