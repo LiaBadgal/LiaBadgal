@@ -4,7 +4,7 @@ Hello! My name's Lia/Adriana Piedra, and I'm an aspiring programmer whose primar
 - I graduated from Florida International University with a Bachelor's of Science in CompSci
 - I’m currently learning Python and GDScript for programming languages.
 - I also want to revisit math to hone my skills in it
-- Pronouns: She/her primarily, shi/hir and hi/hir secondarily, but I also like fae/faer and it/its. For more information, you can visit my [pronouns page!](https://en.pronouns.page/@LiaBadgal)
+- Pronouns: She/her primarily, xe/xem secondarily, but I also like fae/faer and it/its. For more information, you can visit my [pronouns page!](https://en.pronouns.page/@LiaBadgal)
 
 
 ![Lia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liabadgal&show_icons=true&theme=gruvbox)
